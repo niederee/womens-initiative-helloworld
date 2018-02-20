@@ -3,7 +3,7 @@ using System.IO;
 
 namespace HelloWorld
 {
-    public class FileFactory
+    public class FileService
     {
         public void MakeFile(FileInfo file)
         {
