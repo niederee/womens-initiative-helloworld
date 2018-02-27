@@ -7,10 +7,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            ConditionalService conditionalService = new ConditionalService();
-            bool test = conditionalService.ConditionalBool(false);
-            bool test2 = conditionalService.ConditionalString("Hello World");
-
+            ForLoopService forLoopService = new ForLoopService();
+            var results = forLoopService.CountNumbers(50);
         }
     }
 }
