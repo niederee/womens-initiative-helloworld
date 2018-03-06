@@ -8,7 +8,8 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             ForLoopService forLoopService = new ForLoopService();
-            var results = forLoopService.CountNumbers(50);
+            var sumResults = forLoopService.SummarizeNumbers(SummaryType.Sum,50);
+            var countResults = forLoopService.SummarizeNumbers(SummaryType.Count,50);
         }
     }
 }
