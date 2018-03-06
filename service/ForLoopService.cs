@@ -34,9 +34,5 @@ namespace HelloWorld
 
 
     }
-    public enum SummaryType
-    {
-        Sum,
-        Count
-    }
+
 }
