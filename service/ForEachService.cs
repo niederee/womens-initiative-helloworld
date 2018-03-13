@@ -11,10 +11,21 @@ namespace HelloWorld
         }
         private MockDataService mockData { get; set; }
 
-        public void ForEachLoop()
+        public int GetPeopleYoungerThan(DateTime date)
         {
+            int countValue = 0;
             //Do Code Here
+            foreach(Person person in mockData.People)
+            {
+                if(person.DateOfBirth >= date)
+                {
+                    countValue += 1;
+                }
+            }
+            return countValue;
         }
+
+     
     }
 
 }

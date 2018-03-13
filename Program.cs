@@ -12,7 +12,8 @@ namespace HelloWorld
             var countResults = forLoopService.SummarizeNumbers(SummaryType.Count,50);
 
             ForEachService forEachService = new ForEachService();
-            forEachService.ForEachLoop();
+            DateTime rmdDate = DateTime.Today.AddYears(-70);
+            int peeps = forEachService.GetPeopleYoungerThan(rmdDate);
         }
     }
 }
