@@ -2,7 +2,7 @@ using System;
 
 namespace HelloWorld
 {
-        public enum Gender
+    public enum Gender
     {
         Male,
         Female
@@ -16,15 +16,30 @@ namespace HelloWorld
 
     }
 
-    public enum AccountType 
+    public enum AccountType
     {
         Savings,
         Checking
     }
 
-        public enum SummaryType
+    public enum SummaryType
     {
         Sum,
         Count
+    }
+
+    public enum ShoeOrientation
+    {
+        Right,
+        Left
+    }
+
+    public enum ShoeStyle
+    {
+        Casual,
+        Sport,
+        Formal,
+        Sandal,
+        Boot
     }
 }

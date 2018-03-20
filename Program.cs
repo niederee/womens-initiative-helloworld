@@ -7,13 +7,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {            
-            ForLoopService forLoopService = new ForLoopService();
-            var sumResults = forLoopService.SummarizeNumbers(SummaryType.Sum,50);
-            var countResults = forLoopService.SummarizeNumbers(SummaryType.Count,50);
-
-            ForEachService forEachService = new ForEachService();
-            DateTime rmdDate = DateTime.Today.AddYears(-70);
-            int peeps = forEachService.GetPeopleYoungerThan(rmdDate);
+            ShoeService svc = new ShoeService();
+            
         }
     }
 }
