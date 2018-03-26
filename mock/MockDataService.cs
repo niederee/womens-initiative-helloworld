@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Drawing;
 
 namespace HelloWorld
 {
@@ -15,6 +16,8 @@ namespace HelloWorld
             Accounts = getList<Account>(Path.Combine(filePath, "account.dat"));
             People = getList<Person>(Path.Combine(filePath, "person.dat"));
             AccountPersons = getList<AccountPerson>(Path.Combine(filePath, "accountPerson.dat"));
+            ShoePersons= getList<ShoePerson>(Path.Combine(filePath, "shoePerson.dat"));
+            Shoes= getList<Shoe>(Path.Combine(filePath, "shoe.dat"));
         }
 
 
@@ -22,6 +25,9 @@ namespace HelloWorld
         public List<Account> Accounts { get; internal set; }
         public List<Person> People { get; internal set; }
         public List<AccountPerson> AccountPersons { get; internal set; }
+        public List<ShoePerson> ShoePersons { get; internal set; }
+        public List<Shoe> Shoes { get; set; }
+        
 
 
 
@@ -52,6 +58,21 @@ namespace HelloWorld
                         else if (Nullable.GetUnderlyingType(prop.PropertyType) == typeof(DateTime))
                         {
                             prop.SetValue(tmpObj, DateTime.Parse(propVal));
+                        }
+                        else if(prop.PropertyType == typeof(ShoeOrientation[]))
+                        {
+                            string[] sArr = propVal.Split(",");
+                            
+                            List<ShoeOrientation> sO = new List<ShoeOrientation>();
+                            foreach(var p in sArr)
+                            {
+                                 sO.Add((ShoeOrientation)Enum.Parse(typeof(ShoeOrientation),p));   
+                            }
+                            prop.SetValue(tmpObj,sO.ToArray());
+                        }
+                        else if(prop.PropertyType == typeof(Color))
+                        {
+                            prop.SetValue(tmpObj, Color.FromName(propVal));
                         }
                         else
                         {

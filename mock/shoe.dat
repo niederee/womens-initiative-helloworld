@@ -1,0 +1,600 @@
+400|ff800000|11|Left,Right|Skechers|Casual|Male
+401|ff008000|13|Left,Right|NIKE|Boot|Male
+402|ff000000|11.5|Left,Right|Sperry Top-Sider|Sport|Male
+403|ff00ffff|12|Left,Right|KEEN|Sandal|Male
+404|ff32cd32|8|Left,Right|FRYE|Casual|Male
+405|ff3cb371|13|Left,Right|Aldo|Sport|Male
+406|ffffc0cb|12|Left,Right|Brooks|Boot|Male
+407|ff7b68ee|13|Left,Right|KEEN|Boot|Male
+408|ff8fbc8f|9.5|Left,Right|ASICS|Formal|Male
+409|ffffe4e1|12|Left,Right|Converse|Sandal|Male
+410|ffdda0dd|11.5|Left,Right|AX Armani Exchange|Sport|Male
+411|ff9acd32|10.5|Left,Right|NIKE|Sandal|Male
+412|ff8b008b|14.5|Left,Right|Dansko|Sandal|Male
+413|ff228b22|8.5|Left,Right|New Balance|Formal|Male
+414|ffba55d3|9|Left,Right|CLARKS|Formal|Male
+415|ff696969|14|Left,Right|Lacoste|Boot|Male
+416|ffa9a9a9|9.5|Left,Right|Carhartt|Formal|Male
+417|ff0000ff|10|Left,Right|Merrell|Sandal|Male
+418|ffb0c4de|14|Left,Right|Timberland|Formal|Male
+419|ff6a5acd|9.5|Left,Right|CLARKS|Boot|Male
+420|ffee82ee|9|Left,Right|ASICS|Sport|Male
+421|ffdb7093|10|Left,Right|Ted Baker|Sandal|Male
+422|ff00ced1|13.5|Left,Right|Sperry Top-Sider|Sport|Male
+423|ffb0e0e6|13.5|Left,Right|AX Armani Exchange|Boot|Male
+424|ff7fff00|14|Left,Right|Sperry Top-Sider|Casual|Male
+425|fffff0f5|11|Left,Right|Lacoste|Sport|Male
+426|ff4682b4|10.5|Left,Right|Merrell|Casual|Male
+427|ff00ffff|8.5|Left,Right|RockDove|Boot|Male
+428|ff4b0082|11|Left,Right|New Balance|Sandal|Male
+429|fff5fffa|12|Left,Right|Aldo|Sport|Male
+430|ff000080|11|Left,Right|Merrell|Formal|Male
+431|fff4a460|10|Left,Right|Skechers|Sandal|Male
+432|ffcd853f|8.5|Left,Right|Lacoste|Formal|Male
+433|ff87cefa|9.5|Left,Right|RockDove|Formal|Male
+434|fff4a460|12.5|Left,Right|PUMA|Sandal|Male
+435|ff778899|15|Left,Right|Lacoste|Casual|Male
+436|fffff5ee|13|Left,Right|Converse|Casual|Male
+437|ff4b0082|13|Left,Right|Van Heusen|Sandal|Male
+438|ff6b8e23|9|Left,Right|Salomon|Boot|Male
+439|fff0f8ff|14.5|Left,Right|Van Heusen|Formal|Male
+440|ff5f9ea0|13|Left,Right|Carhartt|Formal|Male
+441|ff000080|15|Left,Right|Reef|Sandal|Male
+442|ff008b8b|8.5|Left,Right|Sperry Top-Sider|Boot|Male
+443|ffadff2f|9.5|Left,Right|Timberland|Boot|Male
+444|ffffefd5|8|Left,Right|NIKE|Boot|Male
+445|fff0f8ff|15|Left,Right|PUMA|Casual|Male
+446|ffff1493|9|Left,Right|Adidas|Formal|Male
+447|ffff4500|8|Left,Right|NIKE|Sandal|Male
+448|fff5f5dc|12.5|Left,Right|Cherokee|Sandal|Male
+449|ff5f9ea0|11|Left,Right|Adidas|Boot|Male
+450|ffffebcd|13|Left,Right|Calvin Klein|Boot|Male
+451|ffffffe0|14|Left,Right|FRYE|Sport|Male
+452|ff8b4513|10.5|Left,Right|Skechers|Sport|Male
+453|fff5fffa|9.5|Left,Right|ASICS|Casual|Male
+454|ffadff2f|9|Left,Right|Adidas|Boot|Male
+455|ff000080|11|Left,Right|Cherokee|Formal|Male
+456|ff00ced1|8.5|Left,Right|KEEN|Boot|Male
+457|fffffacd|14|Left,Right|New Balance|Casual|Male
+458|ffe9967a|12|Left,Right|Salomon|Sandal|Male
+459|ff00ced1|12.5|Left,Right|AX Armani Exchange|Sandal|Male
+460|fff0ffff|11.5|Left,Right|Adidas|Sport|Male
+461|ffe6e6fa|14|Left,Right|FRYE|Formal|Male
+462|fffaf0e6|12|Left,Right|Adidas|Formal|Male
+463|fffaf0e6|12.5|Left,Right|Calvin Klein|Formal|Male
+464|ffdda0dd|11.5|Left,Right|Merrell|Sport|Male
+465|fff0e68c|9.5|Left,Right|Merrell|Sandal|Male
+466|ff808000|10.5|Left,Right|Skechers|Formal|Male
+467|fffffff0|14|Left,Right|Timberland|Casual|Male
+468|ffadd8e6|13.5|Left,Right|Reef|Formal|Male
+469|fff5fffa|9.5|Left,Right|FRYE|Sandal|Male
+470|ff008000|8.5|Left,Right|PUMA|Boot|Male
+471|fff0e68c|8|Left,Right|Van Heusen|Sport|Male
+472|ffb22222|9.5|Left,Right|Skechers|Casual|Male
+473|ffe6e6fa|10|Left,Right|UGG|Boot|Male
+474|fffff5ee|12|Left,Right|Cherokee|Casual|Male
+475|ff98fb98|13.5|Left,Right|Van Heusen|Sandal|Male
+476|ffffa500|12|Left,Right|FRYE|Boot|Male
+477|ff8b0000|13|Left,Right|Brooks|Casual|Male
+478|ffe9967a|15|Left,Right|Calvin Klein|Formal|Male
+479|ffffa500|9.5|Left,Right|Merrell|Sport|Male
+480|ffe9967a|10.5|Left,Right|CLARKS|Casual|Male
+481|ffffdab9|12|Left,Right|Converse|Boot|Male
+482|ff8b4513|10|Left,Right|Lacoste|Boot|Male
+483|fffa8072|12.5|Left,Right|NIKE|Casual|Male
+484|ff2f4f4f|15|Left,Right|NIKE|Formal|Male
+485|ffffe4b5|10|Left,Right|KEEN|Casual|Male
+486|ff5f9ea0|12|Left,Right|CLARKS|Casual|Male
+487|ff808000|13|Left,Right|Ted Baker|Casual|Male
+488|fff5fffa|12|Left,Right|FRYE|Formal|Male
+489|ff00ffff|13.5|Left,Right|PUMA|Sport|Male
+490|ff00fa9a|13|Left,Right|Timberland|Casual|Male
+491|ffff69b4|10|Left,Right|Cherokee|Sport|Male
+492|ff3cb371|10|Left,Right|AX Armani Exchange|Formal|Male
+493|ffa52a2a|10|Left,Right|Brooks|Boot|Male
+494|ffffb6c1|12.5|Left,Right|Brooks|Sport|Male
+495|ffd2691e|10|Left,Right|New Balance|Formal|Male
+496|fffffff0|14|Left,Right|Sperry Top-Sider|Casual|Male
+497|ff808080|15|Left,Right|Columbia|Sport|Male
+498|ff87ceeb|11.5|Left,Right|Aldo|Sport|Male
+499|ffcd853f|14.5|Left,Right|KEEN|Sport|Male
+500|ffbc8f8f|14.5|Left,Right|Skechers|Formal|Male
+501|ff808000|9.5|Left,Right|Brooks|Formal|Male
+502|ff8b4513|11|Left,Right|Skechers|Formal|Male
+503|ff008080|9|Left,Right|Ted Baker|Casual|Male
+504|fffffaf0|13.5|Left,Right|Carhartt|Formal|Male
+505|ff228b22|14|Left,Right|Cherokee|Boot|Male
+506|ffffebcd|13.5|Left,Right|Columbia|Sport|Male
+507|fff5f5f5|9.5|Left,Right|Reef|Casual|Male
+508|ffdaa520|10.5|Left,Right|Carhartt|Formal|Male
+509|ff00008b|13.5|Left,Right|Lacoste|Sandal|Male
+510|ff6b8e23|8.5|Left,Right|Van Heusen|Casual|Male
+511|ff8a2be2|12|Left,Right|Salomon|Sandal|Male
+512|ff9370db|8.5|Left,Right|Skechers|Sandal|Male
+513|ff7cfc00|9|Left,Right|CLARKS|Sandal|Male
+514|ffbc8f8f|11.5|Left,Right|Ted Baker|Boot|Male
+515|ff006400|8.5|Left,Right|Crocs|Sandal|Male
+516|ff9932cc|14|Left,Right|Reef|Boot|Male
+517|ff696969|11.5|Left,Right|Dansko|Sport|Male
+518|ff008000|8|Left,Right|Merrell|Boot|Male
+519|ffe6e6fa|12|Left,Right|AX Armani Exchange|Boot|Male
+520|ffa9a9a9|10|Left,Right|Crocs|Formal|Male
+521|ffd8bfd8|8.5|Left,Right|CLARKS|Casual|Male
+522|fff0f8ff|13.5|Left,Right|Reef|Boot|Male
+523|fff5fffa|13|Left,Right|Champion|Sandal|Male
+524|fff0fff0|14|Left,Right|Van Heusen|Boot|Male
+525|ffd2691e|12|Left,Right|ASICS|Sandal|Male
+526|ff3cb371|11.5|Left,Right|Columbia|Sandal|Male
+527|ffdeb887|14.5|Left,Right|Merrell|Sport|Male
+528|ffc71585|11|Left,Right|Sperry Top-Sider|Sandal|Male
+529|ffc71585|9.5|Left,Right|RockDove|Formal|Male
+530|ffe9967a|13.5|Left,Right|Brooks|Boot|Male
+531|ffffffe0|11|Left,Right|Columbia|Boot|Male
+532|ffffebcd|15|Left,Right|PUMA|Formal|Male
+533|fffffacd|13.5|Left,Right|Merrell|Casual|Male
+534|ffd2b48c|10|Left,Right|KEEN|Sandal|Male
+535|ffa9a9a9|13|Left,Right|Cole Haan|Casual|Male
+536|ff20b2aa|12.5|Left,Right|NIKE|Boot|Male
+537|ffe0ffff|12|Left,Right|Adidas|Casual|Male
+538|ffa52a2a|10.5|Left,Right|Timberland|Formal|Male
+539|ff8b0000|14|Left,Right|CLARKS|Casual|Male
+540|ffffe4e1|14|Left,Right|Skechers|Sport|Male
+541|ff00fa9a|11.5|Left,Right|KEEN|Boot|Male
+542|ffb22222|10.5|Left,Right|Dansko|Sandal|Male
+543|ff800080|14|Left,Right|Timberland|Formal|Male
+544|ff556b2f|15|Left,Right|Aldo|Sandal|Male
+545|ffe9967a|14|Left,Right|NIKE|Boot|Male
+546|ff8fbc8f|9.5|Left,Right|Van Heusen|Boot|Male
+547|ffdcdcdc|11.5|Left,Right|Adidas|Casual|Male
+548|ff008080|10|Left,Right|Salomon|Boot|Male
+549|ffffdead|13|Left,Right|UGG|Casual|Male
+550|ff20b2aa|8|Left,Right|PUMA|Casual|Male
+551|ff00ced1|13|Left,Right|RockDove|Formal|Male
+552|fff08080|8.5|Left,Right|PUMA|Boot|Male
+553|ffdcdcdc|8.5|Left,Right|Crocs|Casual|Male
+554|ffffe4c4|12|Left,Right|RockDove|Formal|Male
+555|ffdcdcdc|10|Left,Right|Salomon|Sport|Male
+556|ffe6e6fa|8.5|Left,Right|Cherokee|Casual|Male
+557|ffeee8aa|15|Left,Right|Timberland|Casual|Male
+558|ffffdab9|10.5|Left,Right|AX Armani Exchange|Casual|Male
+559|ff8b008b|9|Left,Right|ASICS|Formal|Male
+560|ffcd853f|13|Left,Right|Skechers|Boot|Male
+561|ff40e0d0|12|Left,Right|KEEN|Boot|Male
+562|ffdaa520|11|Left,Right|Salomon|Boot|Male
+563|ff4169e1|14.5|Left,Right|Brooks|Sport|Male
+564|ff00ffff|10.5|Left,Right|Calvin Klein|Formal|Male
+565|ff90ee90|10|Left,Right|Carhartt|Casual|Male
+566|fffff0f5|14.5|Left,Right|Crocs|Boot|Male
+567|ff7fffd4|13|Left,Right|Calvin Klein|Formal|Male
+568|ff800080|12|Left,Right|Merrell|Formal|Male
+569|ffdda0dd|15|Left,Right|FRYE|Formal|Male
+570|ff00fa9a|10|Left,Right|Lacoste|Casual|Male
+571|ff00ffff|12|Left,Right|Skechers|Sport|Male
+572|ffbc8f8f|10|Left,Right|KEEN|Boot|Male
+573|ff6495ed|8.5|Left,Right|RockDove|Formal|Male
+574|ff00ff7f|10|Left,Right|New Balance|Casual|Male
+575|ff8b008b|8.5|Left,Right|Van Heusen|Sport|Male
+576|ff4b0082|13.5|Left,Right|Timberland|Sport|Male
+577|ff9400d3|10.5|Left,Right|Cole Haan|Boot|Male
+578|ffdc143c|10.5|Left,Right|Crocs|Sandal|Male
+579|ffc71585|12|Left,Right|CLARKS|Casual|Male
+580|ff808000|7|Left,Right|Charlotte Chesnais|Casual|Female
+581|ffff69b4|7.5|Left,Right|Alexander Wang|Sandal|Female
+582|ffb8860b|8|Left,Right|ELLERY|Sport|Female
+583|ffffa07a|9|Left,Right|MSGM|Sport|Female
+584|fff08080|7.5|Left,Right|Gucci|Sandal|Female
+585|ff6a5acd|7.5|Left,Right|Sophie Bille Brahe|Boot|Female
+586|ff9370db|6.5|Left,Right|Victoria Beckham|Sandal|Female
+587|ff4682b4|9.5|Left,Right|Golden Goose|Casual|Female
+588|fffa8072|12|Left,Right|Rosetta Getty|Boot|Female
+589|fffffafa|7|Left,Right|Akris punto|Sandal|Female
+590|ff4169e1|8.5|Left,Right|Molly Goddard|Casual|Female
+591|ff00bfff|6|Left,Right|T by Alexander Wang|Sandal|Female
+592|ffcd5c5c|11.5|Left,Right|Sarah & Sebastian|Sport|Female
+593|ffdb7093|11|Left,Right|Yigal Azrouël|Formal|Female
+594|ff4682b4|7|Left,Right|Rick Owens|Sport|Female
+595|ff8b008b|8|Left,Right|Proenza Schouler|Casual|Female
+596|fffff0f5|7.5|Left,Right|Brooke Gregson|Boot|Female
+597|ff0000ff|11|Left,Right|Moncler|Sport|Female
+598|ff00008b|8|Left,Right|Rosetta Getty|Sandal|Female
+599|ffffdab9|5|Left,Right|Sofie D'Hoore|Sport|Female
+600|ff98fb98|10|Left,Right|Tod's|Boot|Female
+601|ff556b2f|12|Left,Right|Opening Ceremony|Boot|Female
+602|ffff00ff|5|Left,Right|J.W.ANDERSON|Formal|Female
+603|ff8fbc8f|5.5|Left,Right|Maison Margiela|Sandal|Female
+604|ffffe4b5|8|Left,Right|Prada|Casual|Female
+605|ff87ceeb|8|Left,Right|Lanvin|Sport|Female
+606|ffffefd5|10.5|Left,Right|Altuzarra|Casual|Female
+607|fffffff0|11|Left,Right|Y's by Yohji Yamamoto|Formal|Female
+608|ffffa500|12|Left,Right|Marques’Almeida|Formal|Female
+609|fffff8dc|12|Left,Right|Isabel Marant|Sandal|Female
+610|ffdda0dd|12|Left,Right|Kenzo|Formal|Female
+611|ff9932cc|5|Left,Right|Marni|Boot|Female
+612|ff808080|8.5|Left,Right|Isabel Marant|Sport|Female
+613|ff4682b4|6|Left,Right|rag & bone|Sport|Female
+614|ff0000ff|5|Left,Right|Junya Watanabe|Boot|Female
+615|ff00ffff|12|Left,Right|Burberry|Casual|Female
+616|ff778899|12|Left,Right|Balenciaga|Formal|Female
+617|ffffdab9|11|Left,Right|Opening Ceremony|Casual|Female
+618|ffdeb887|9|Left,Right|Yigal Azrouël|Boot|Female
+619|ff483d8b|10|Left,Right|Kenzo|Casual|Female
+620|ffb0c4de|11|Left,Right|Sarah & Sebastian|Formal|Female
+621|ff1e90ff|9.5|Left,Right|Balenciaga|Sport|Female
+622|ffb0c4de|9.5|Left,Right|Magda Butrym|Formal|Female
+623|ffafeeee|7|Left,Right|Comme des Garçons Fragrance|Sandal|Female
+624|ffe6e6fa|7|Left,Right|Rick Owens|Boot|Female
+625|ff00ffff|5|Left,Right|MSGM|Boot|Female
+626|ffffa500|9.5|Left,Right|Galvan|Casual|Female
+627|ff87cefa|9.5|Left,Right|Valentino|Formal|Female
+628|ff000000|6|Left,Right|Talbot Runhof|Casual|Female
+629|fff0e68c|9.5|Left,Right|Paskal|Boot|Female
+630|ff4682b4|11|Left,Right|Dolce&Gabbana|Sport|Female
+631|ff6b8e23|6|Left,Right|Chloé|Sport|Female
+632|ffffdead|6.5|Left,Right|ELLERY|Boot|Female
+633|ff008b8b|5|Left,Right|Etro|Casual|Female
+634|ffbc8f8f|9.5|Left,Right|Oscar de la Renta|Sport|Female
+635|ff9370db|7.5|Left,Right|Balmain|Sandal|Female
+636|ff808080|12|Left,Right|Yigal Azrouël|Formal|Female
+637|ff006400|6|Left,Right|Molly Goddard|Sandal|Female
+638|ff00ffff|7.5|Left,Right|MARC JACOBS|Sandal|Female
+639|ffffe4b5|10.5|Left,Right|Sophie Bille Brahe|Formal|Female
+640|ff40e0d0|9.5|Left,Right|Givenchy|Sport|Female
+641|ff87cefa|6.5|Left,Right|Missoni|Boot|Female
+642|fffafad2|10|Left,Right|T by Alexander Wang|Boot|Female
+643|ffffa07a|11.5|Left,Right|Brooke Gregson|Sandal|Female
+644|ffb22222|9.5|Left,Right|Chloé|Casual|Female
+645|ff006400|11|Left,Right|Dolce&Gabbana|Sandal|Female
+646|ff0000cd|5.5|Left,Right|Altuzarra|Formal|Female
+647|ff7cfc00|6|Left,Right|J.W.ANDERSON|Boot|Female
+648|ffc71585|5|Left,Right|Jacquemus|Casual|Female
+649|ffadd8e6|6|Left,Right|Daniela Villegas|Sport|Female
+650|ffffa500|8.5|Left,Right|Lafayette 148 New York|Sport|Female
+651|ffff4500|6|Left,Right|Dolce&Gabbana|Casual|Female
+652|ffdeb887|5|Left,Right|KARA|Formal|Female
+653|ff32cd32|9|Left,Right|Loewe|Sport|Female
+654|ff483d8b|6|Left,Right|FRANCESCO RUSSO|Casual|Female
+655|ff98fb98|5|Left,Right|Adam Lippes|Sport|Female
+656|ff87ceeb|8|Left,Right|Nancy Gonzalez|Formal|Female
+657|ffffffe0|8.5|Left,Right|Lafayette 148 New York|Formal|Female
+658|ff6b8e23|10.5|Left,Right|TOGA|Sport|Female
+659|ffd3d3d3|9|Left,Right|Talbot Runhof|Boot|Female
+660|fff08080|7.5|Left,Right|Isabel Marant|Sandal|Female
+661|ff00ced1|7|Left,Right|TOGA|Formal|Female
+662|fffff5ee|11|Left,Right|Dolce&Gabbana|Boot|Female
+663|ffcd5c5c|5|Left,Right|Dolce&Gabbana|Formal|Female
+664|fffff5ee|10|Left,Right|Isa Arfen|Formal|Female
+665|ff808000|7.5|Left,Right|Cushnie et Ochs|Formal|Female
+666|ffffdab9|11.5|Left,Right|Nili Lotan|Sandal|Female
+667|ffbc8f8f|10.5|Left,Right|Carmen Marc Valvo Couture|Sport|Female
+668|ff8b4513|11|Left,Right|J.W.ANDERSON|Sandal|Female
+669|ff00ffff|9|Left,Right|Alexander McQueen|Formal|Female
+670|ff3cb371|8|Left,Right|Giuseppe Zanotti|Sport|Female
+671|fffffff0|9.5|Left,Right|Paskal|Formal|Female
+672|ffffe4e1|8.5|Left,Right|Daniela Villegas|Casual|Female
+673|fff08080|5|Left,Right|Akris|Casual|Female
+674|ffffc0cb|10|Left,Right|Tibi|Sandal|Female
+675|ffafeeee|6|Left,Right|Moncler|Sandal|Female
+676|fff0f8ff|8|Left,Right|Max Mara|Sandal|Female
+677|ff708090|8|Left,Right|Saint Laurent|Sandal|Female
+678|ff000000|7.5|Left,Right|Fuzzi|Casual|Female
+679|ffee82ee|9.5|Left,Right|Lanvin|Sport|Female
+680|ff6495ed|6.5|Left,Right|Dries Van Noten*|Formal|Female
+681|ffff1493|8.5|Left,Right|Monique Lhuillier|Boot|Female
+682|ffd2b48c|12|Left,Right|Prada|Sandal|Female
+683|ffcd5c5c|6.5|Left,Right|Isa Arfen|Sandal|Female
+684|ffcd853f|9.5|Left,Right|Tricot Comme des Garçons|Casual|Female
+685|ff000000|10|Left,Right|Shrimps|Sandal|Female
+686|ff800080|7.5|Left,Right|Y's by Yohji Yamamoto|Sandal|Female
+687|ffe0ffff|12|Left,Right|Jimmy Choo|Sport|Female
+688|ff008000|11.5|Left,Right|MCM|Boot|Female
+689|ff8b008b|8.5|Left,Right|Chloé|Boot|Female
+690|ffffe4e1|7|Left,Right|Charlotte Chesnais|Sandal|Female
+691|ffe6e6fa|11|Left,Right|Co|Boot|Female
+692|fffff0f5|11.5|Left,Right|Dior*|Sandal|Female
+693|ff20b2aa|10|Left,Right|Tu es mon TRÉSOR|Formal|Female
+694|ff006400|6.5|Left,Right|Isabel Marant Etoile|Formal|Female
+695|ff8b4513|11|Left,Right|Missoni|Formal|Female
+696|ff98fb98|6.5|Left,Right|Paskal|Sandal|Female
+697|ff1e90ff|5|Left,Right|MARC JACOBS|Sport|Female
+698|ffdb7093|10|Left,Right|Vetements|Formal|Female
+699|ffc0c0c0|6|Left,Right|Giuseppe Zanotti|Casual|Female
+700|ffdb7093|9|Left,Right|Shrimps|Sandal|Female
+701|ff87cefa|12|Left,Right|RED Valentino|Casual|Female
+702|ffc71585|5|Left,Right|Tricot Comme des Garçons|Casual|Female
+703|ffffffff|5|Left,Right|Nancy Gonzalez|Sandal|Female
+704|ffadd8e6|7.5|Left,Right|CALVIN KLEIN 205W39NYC|Casual|Female
+705|fff5f5f5|8.5|Left,Right|Proenza Schouler|Sport|Female
+706|ff9acd32|12|Left,Right|Akris punto|Sandal|Female
+707|fffffaf0|6|Left,Right|Phillip Lim|Boot|Female
+708|fff5deb3|8.5|Left,Right|Alexandre Birman|Casual|Female
+709|ff20b2aa|11|Left,Right|Bottega Veneta*|Formal|Female
+710|ff00fa9a|6|Left,Right|Proenza Schouler|Casual|Female
+711|ff808080|11.5|Left,Right|CHANEL*|Casual|Female
+712|fffff8dc|12|Left,Right|Alexandre Birman|Boot|Female
+713|ff48d1cc|11.5|Left,Right|Proenza Schouler|Boot|Female
+714|ff98fb98|11|Left,Right|Givenchy|Boot|Female
+715|fffa8072|10.5|Left,Right|Rosetta Getty|Casual|Female
+716|ff66cdaa|9.5|Left,Right|Roksanda|Boot|Female
+717|fffff5ee|10|Left,Right|Vetements|Sport|Female
+718|ffff6347|9.5|Left,Right|Versace|Sandal|Female
+719|ffd3d3d3|5.5|Left,Right|Talbot Runhof|Sandal|Female
+720|ffffefd5|10|Left,Right|Versace|Casual|Female
+721|ffffffff|11.5|Left,Right|Fendi|Sandal|Female
+722|ffbdb76b|8|Left,Right|Burberry|Formal|Female
+723|ffdb7093|7.5|Left,Right|Marni|Formal|Female
+724|ffd3d3d3|11.5|Left,Right|MCM|Casual|Female
+725|ffdaa520|9.5|Left,Right|Isabel Marant|Casual|Female
+726|ffdaa520|6.5|Left,Right|Talbot Runhof|Boot|Female
+727|ffff4500|10.5|Left,Right|T by Alexander Wang|Boot|Female
+728|ff00bfff|11.5|Left,Right|WWAKE|Boot|Female
+729|ffa9a9a9|5|Left,Right|Prada|Sport|Female
+730|ff00ff00|10.5|Left,Right|Sarah & Sebastian|Formal|Female
+731|ffa0522d|10.5|Left,Right|Isa Arfen|Casual|Female
+732|ff2e8b57|6|Left,Right|Maison Michel|Formal|Female
+733|ff008b8b|8|Left,Right|Giuseppe Zanotti|Sport|Female
+734|ff00ff7f|9|Left,Right|rag & bone|Boot|Female
+735|ff9acd32|12|Left,Right|Akris|Formal|Female
+736|ff3cb371|8|Left,Right|Cushnie et Ochs|Formal|Female
+737|fffffff0|7|Left,Right|Vetements|Casual|Female
+738|ffffd700|7.5|Left,Right|CHANEL*|Boot|Female
+739|ff00ced1|11|Left,Right|Sara Battaglia|Boot|Female
+740|ffffefd5|5|Left,Right|Dior*|Sport|Female
+741|ff00ff00|5|Left,Right|Carven|Formal|Female
+742|ff556b2f|11|Left,Right|Yigal Azrouël|Sport|Female
+743|ffdcdcdc|11|Left,Right|Céline*|Sandal|Female
+744|ff6495ed|11|Left,Right|Phillip Lim|Formal|Female
+745|ff4169e1|10.5|Left,Right|KARA|Sport|Female
+746|ffdc143c|5.5|Left,Right|Off-White|Sport|Female
+747|ffadd8e6|5|Left,Right|Giuseppe Zanotti|Boot|Female
+748|ffffffff|8.5|Left,Right|Anya Hindmarch|Sandal|Female
+749|ff778899|6.5|Left,Right|rag & bone|Sport|Female
+750|ff9370db|10|Left,Right|Anya Hindmarch|Sport|Female
+751|ffdaa520|10.5|Left,Right|Brandon Maxwell|Sport|Female
+752|fff0f8ff|11|Left,Right|Missoni|Boot|Female
+753|ffffe4c4|10|Left,Right|rag & bone|Formal|Female
+754|ffdc143c|8|Left,Right|Maison Michel|Sport|Female
+755|ff87cefa|5|Left,Right|Galvan|Formal|Female
+756|ffb0e0e6|9|Left,Right|J.W.ANDERSON|Sandal|Female
+757|ffffb6c1|6.5|Left,Right|Monse|Casual|Female
+758|ff4169e1|8.5|Left,Right|Talbot Runhof|Sandal|Female
+759|ffd3d3d3|11|Left,Right|Marni|Boot|Female
+760|ffffd700|7|Left,Right|Valentino|Formal|Female
+761|fffff8dc|7.5|Left,Right|Moncler|Sandal|Female
+762|ff9400d3|5|Left,Right|Jacquemus|Sandal|Female
+763|ff556b2f|9|Left,Right|Céline*|Sport|Female
+764|ff98fb98|9|Left,Right|Brandon Maxwell|Sport|Female
+765|ff9acd32|7.5|Left,Right|Monse|Sport|Female
+766|ffdaa520|5.5|Left,Right|Veronica Beard|Sandal|Female
+767|ff6b8e23|11.5|Left,Right|Golden Goose|Boot|Female
+768|fffaebd7|5|Left,Right|CALVIN KLEIN 205W39NYC|Casual|Female
+769|ff6495ed|12|Left,Right|Balenciaga|Boot|Female
+770|fffdf5e6|7|Left,Right|Alexandre Birman|Sandal|Female
+771|ffe0ffff|7.5|Left,Right|Rick Owens|Sport|Female
+772|ffd2691e|10|Left,Right|Lafayette 148 New York|Sandal|Female
+773|ff191970|11|Left,Right|Burberry|Sandal|Female
+774|ffdcdcdc|12|Left,Right|Balmain|Sport|Female
+775|ff4169e1|6.5|Left,Right|Giuseppe Zanotti|Sandal|Female
+776|ffffa500|10|Left,Right|Isabel Marant|Formal|Female
+777|ff008000|6|Left,Right|Balenciaga|Formal|Female
+778|ff8a2be2|5|Left,Right|Simon Miller|Sport|Female
+779|ffc0c0c0|12|Left,Right|Charlotte Chesnais|Sport|Female
+780|ffd2691e|8.5|Left,Right|Alexandre Birman|Formal|Female
+781|ff8a2be2|6.5|Left,Right|Yigal Azrouël|Boot|Female
+782|ffb8860b|8.5|Left,Right|Fabiana Filippi|Boot|Female
+783|fff5fffa|10.5|Left,Right|Prada|Boot|Female
+784|ffdeb887|6.5|Left,Right|Adam Lippes|Boot|Female
+785|ffd2691e|5|Left,Right|Akris|Formal|Female
+786|ffffa500|5.5|Left,Right|Monique Lhuillier|Boot|Female
+787|ffffdab9|5|Left,Right|Golden Goose|Sandal|Female
+788|ffd2b48c|6.5|Left,Right|Zero + Maria Cornejo|Sport|Female
+789|fff0e68c|6.5|Left,Right|Isa Arfen|Sandal|Female
+790|ffd2b48c|7|Left,Right|Simone Rocha|Boot|Female
+791|fffdf5e6|11.5|Left,Right|Lela Rose|Sport|Female
+792|ffffe4c4|6|Left,Right|Carmen Marc Valvo Couture|Boot|Female
+793|ff00bfff|5.5|Left,Right|Tod's|Formal|Female
+794|ffffd700|12|Left,Right|Manolo Blahnik|Sandal|Female
+795|ffbc8f8f|7|Left,Right|Armani Collezioni|Casual|Female
+796|ff191970|9|Left,Right|Jimmy Choo|Sandal|Female
+797|ffffdead|10.5|Left,Right|KARA|Boot|Female
+798|ffffe4b5|9.5|Left,Right|Golden Goose|Sport|Female
+799|ff191970|5.5|Left,Right|Comme des Garçons Fragrance|Sandal|Female
+800|ff4169e1|12|Left,Right|Jimmy Choo|Boot|Female
+801|ff00fa9a|7|Left,Right|Sofie D'Hoore|Sport|Female
+802|ff2f4f4f|10|Left,Right|Lela Rose|Sandal|Female
+803|fffffacd|5|Left,Right|Sarah & Sebastian|Sport|Female
+804|fff8f8ff|5|Left,Right|Rosetta Getty|Formal|Female
+805|ff90ee90|11|Left,Right|Tricot Comme des Garçons|Sandal|Female
+806|ff228b22|8.5|Left,Right|CHANEL*|Sandal|Female
+807|fff8f8ff|6.5|Left,Right|Alexandre Birman|Sandal|Female
+808|ffffe4e1|11.5|Left,Right|rag & bone|Boot|Female
+809|ff8b4513|6.5|Left,Right|Tricot Comme des Garçons|Sandal|Female
+810|ffffebcd|11|Left,Right|Fabiana Filippi|Sport|Female
+811|ffbc8f8f|6.5|Left,Right|Victoria Beckham|Sandal|Female
+812|ff9932cc|11.5|Left,Right|Jonathan Simkhai|Sport|Female
+813|ffffdab9|11.5|Left,Right|Burberry|Casual|Female
+814|ffe6e6fa|12|Left,Right|Bottega Veneta*|Casual|Female
+815|ff7fff00|8.5|Left,Right|T by Alexander Wang|Sandal|Female
+816|ff8b4513|6|Left,Right|MARC JACOBS|Sport|Female
+817|ffffffff|6|Left,Right|Miu Miu|Casual|Female
+818|fffdf5e6|12|Left,Right|Monique Lhuillier|Formal|Female
+819|ffffa07a|11|Left,Right|Carolina Herrera|Formal|Female
+820|ff4169e1|7.5|Left,Right|Maison Michel|Sandal|Female
+821|ffff0000|11|Left,Right|Acne Studios|Sandal|Female
+822|ff00ff7f|12|Left,Right|Moncler|Casual|Female
+823|ff008b8b|8.5|Left,Right|Pedro Garcia|Boot|Female
+824|ff008b8b|6.5|Left,Right|J.W.ANDERSON|Sandal|Female
+825|ff191970|5.5|Left,Right|Manolo Blahnik|Sport|Female
+826|ffff69b4|8.5|Left,Right|Bottega Veneta*|Sport|Female
+827|ffa9a9a9|8|Left,Right|Comme des Garçons Fragrance|Sandal|Female
+828|ff98fb98|9.5|Left,Right|Tod's|Casual|Female
+829|ff800080|5|Left,Right|Fabiana Filippi|Casual|Female
+830|ffff00ff|10.5|Left,Right|Balenciaga|Formal|Female
+831|ffba55d3|10|Left,Right|Smythson|Sport|Female
+832|ffdcdcdc|8.5|Left,Right|Rick Owens|Formal|Female
+833|ffff69b4|5|Left,Right|Sofie D'Hoore|Boot|Female
+834|ffff00ff|11.5|Left,Right|Louis Vuitton|Sandal|Female
+835|ff00bfff|9.5|Left,Right|Marques’Almeida|Sandal|Female
+836|ff87cefa|8|Left,Right|Brooke Gregson|Formal|Female
+837|ff6a5acd|12|Left,Right|Burberry|Boot|Female
+838|ffd2b48c|9.5|Left,Right|Adam Lippes|Casual|Female
+839|ffc71585|6.5|Left,Right|Bottega Veneta*|Sandal|Female
+840|ffffdab9|8.5|Left,Right|Carmen Marc Valvo Couture|Sandal|Female
+841|ffffefd5|11.5|Left,Right|Prada|Sandal|Female
+842|ffdc143c|8.5|Left,Right|Tibi|Formal|Female
+843|ff87cefa|12|Left,Right|Armani Collezioni|Casual|Female
+844|ff8a2be2|11|Left,Right|Missoni|Formal|Female
+845|ff483d8b|7|Left,Right|Phillip Lim|Sport|Female
+846|fff4a460|11|Left,Right|Junya Watanabe|Boot|Female
+847|ffc71585|11.5|Left,Right|Givenchy|Sandal|Female
+848|ff8b008b|11|Left,Right|Oscar de la Renta|Formal|Female
+849|fffa8072|10.5|Left,Right|Michael Kors Collection|Sandal|Female
+850|ffa52a2a|7.5|Left,Right|RED Valentino|Casual|Female
+851|fffffafa|5|Left,Right|Giuseppe Zanotti|Formal|Female
+852|ff9932cc|8.5|Left,Right|rag & bone|Sandal|Female
+853|fffffaf0|5|Left,Right|Anya Hindmarch|Formal|Female
+854|fffa8072|11.5|Left,Right|Jimmy Choo|Formal|Female
+855|ff2e8b57|11.5|Left,Right|Rosetta Getty|Casual|Female
+856|ff000080|6.5|Left,Right|Isabel Marant|Sport|Female
+857|ffcd5c5c|11.5|Left,Right|Altuzarra|Sport|Female
+858|ffb8860b|10.5|Left,Right|Givenchy|Formal|Female
+859|ffff00ff|11.5|Left,Right|CALVIN KLEIN 205W39NYC|Formal|Female
+860|ff90ee90|9|Left,Right|Fuzzi|Casual|Female
+861|ff6b8e23|6|Left,Right|Adam Lippes|Sandal|Female
+862|ffb0c4de|7.5|Left,Right|Nili Lotan|Sport|Female
+863|fffa8072|10.5|Left,Right|Isa Arfen|Sandal|Female
+864|fffa8072|11.5|Left,Right|Valentino|Sandal|Female
+865|ff48d1cc|10|Left,Right|Moncler|Formal|Female
+866|ffc0c0c0|7.5|Left,Right|Yigal Azrouël|Sandal|Female
+867|ffba55d3|11.5|Left,Right|rag & bone|Sandal|Female
+868|ff4682b4|5.5|Left,Right|FRANCESCO RUSSO|Formal|Female
+869|fffaebd7|7|Left,Right|Off-White|Sport|Female
+870|fffffafa|10|Left,Right|Tricot Comme des Garçons|Sport|Female
+871|ffd3d3d3|9|Left,Right|Alexander McQueen|Sport|Female
+872|ff000080|8.5|Left,Right|Max Mara|Boot|Female
+873|fff4a460|7|Left,Right|Oscar de la Renta|Boot|Female
+874|ff8b4513|10|Left,Right|Alexander Wang|Casual|Female
+875|fff4a460|6|Left,Right|Acne Studios|Sandal|Female
+876|ff2f4f4f|5.5|Left,Right|Rosetta Getty|Formal|Female
+877|fffffaf0|8.5|Left,Right|Edie Parker|Sport|Female
+878|ff008080|11.5|Left,Right|Molly Goddard|Sandal|Female
+879|ff708090|10|Left,Right|Jacquemus|Sport|Female
+880|ffb8860b|8.5|Left,Right|Magda Butrym|Sport|Female
+881|ff7cfc00|5|Left,Right|Mociun|Sport|Female
+882|ff2e8b57|8.5|Left,Right|Zero + Maria Cornejo|Sport|Female
+883|ffa52a2a|11|Left,Right|St. John|Sandal|Female
+884|ffdc143c|5.5|Left,Right|Daniela Villegas|Sandal|Female
+885|ff708090|10.5|Left,Right|Anna Sheffield|Sport|Female
+886|ff8a2be2|6.5|Left,Right|Lanvin|Sandal|Female
+887|ff8b008b|10.5|Left,Right|Anya Hindmarch|Sport|Female
+888|ffffe4e1|6|Left,Right|Maison Michel|Sandal|Female
+889|ff0000cd|11|Left,Right|Lela Rose|Formal|Female
+890|ff008080|7|Left,Right|Sophie Bille Brahe|Formal|Female
+891|ffdaa520|8|Left,Right|Anna Sheffield|Casual|Female
+892|ff000080|9|Left,Right|Dior*|Formal|Female
+893|ff20b2aa|7|Left,Right|Brandon Maxwell|Formal|Female
+894|ff7fff00|9.5|Left,Right|Valentino|Formal|Female
+895|ff48d1cc|8.5|Left,Right|Proenza Schouler|Sport|Female
+896|ffa52a2a|10.5|Left,Right|Max Mara|Sport|Female
+897|ff8b4513|6.5|Left,Right|Jonathan Simkhai|Formal|Female
+898|ff7cfc00|9.5|Left,Right|Nancy Gonzalez|Boot|Female
+899|ffb0e0e6|6|Left,Right|Jimmy Choo|Casual|Female
+900|ffa9a9a9|5.5|Left,Right|Adam Lippes|Formal|Female
+901|ff00ffff|8|Left,Right|Proenza Schouler|Casual|Female
+902|fff0ffff|5|Left,Right|Cushnie et Ochs|Boot|Female
+903|ffff6347|7.5|Left,Right|Phillip Lim|Formal|Female
+904|ffffe4b5|6.5|Left,Right|MARC JACOBS|Boot|Female
+905|ff2e8b57|12|Left,Right|Akris|Casual|Female
+906|ffb0e0e6|8|Left,Right|Balenciaga|Sandal|Female
+907|ff9400d3|10|Left,Right|Michael Kors Collection|Casual|Female
+908|fff08080|6|Left,Right|Tu es mon TRÉSOR|Formal|Female
+909|fff5f5f5|9|Left,Right|Belstaff|Casual|Female
+910|ff228b22|9|Left,Right|Alexandre Birman|Boot|Female
+911|ff556b2f|8|Left,Right|Tricot Comme des Garçons|Sandal|Female
+912|ffffa500|10|Left,Right|Sofie D'Hoore|Sandal|Female
+913|ffbdb76b|10.5|Left,Right|Tu es mon TRÉSOR|Casual|Female
+914|ffdeb887|6|Left,Right|Anna Sheffield|Sport|Female
+915|fff8f8ff|12|Left,Right|Jacquemus|Formal|Female
+916|ffcd853f|12|Left,Right|Sophie Bille Brahe|Formal|Female
+917|fff0ffff|9|Left,Right|Jonathan Simkhai|Casual|Female
+918|ffff00ff|9|Left,Right|Mociun|Boot|Female
+919|fffdf5e6|10|Left,Right|Tod's|Formal|Female
+920|ff87ceeb|11.5|Left,Right|Brooke Gregson|Boot|Female
+921|ffe6e6fa|11|Left,Right|Moschino|Sport|Female
+922|ffffd700|10|Left,Right|Gucci|Formal|Female
+923|fffff8dc|5|Left,Right|Nili Lotan|Casual|Female
+924|ffffffff|10|Left,Right|Talbot Runhof|Formal|Female
+925|ffd2691e|6|Left,Right|rag & bone|Sport|Female
+926|ffffebcd|11|Left,Right|Mociun|Casual|Female
+927|fff0fff0|9|Left,Right|Dior*|Sport|Female
+928|fffffff0|7.5|Left,Right|MCM|Sandal|Female
+929|ffff00ff|8.5|Left,Right|Louis Vuitton|Sport|Female
+930|ffda70d6|8|Left,Right|Marques’Almeida|Casual|Female
+931|ffa52a2a|5.5|Left,Right|Marni|Boot|Female
+932|ffff8c00|8.5|Left,Right|Céline*|Boot|Female
+933|ff008000|11.5|Left,Right|Brandon Maxwell|Casual|Female
+934|ff7fffd4|5|Left,Right|Miu Miu|Sport|Female
+935|ff7b68ee|9|Left,Right|Dolce&Gabbana|Formal|Female
+936|ffdeb887|12|Left,Right|Armani Collezioni|Formal|Female
+937|ff3cb371|6.5|Left,Right|Galvan|Sport|Female
+938|ff6495ed|7|Left,Right|Moschino|Formal|Female
+939|ff556b2f|5|Left,Right|Veronica Beard|Sport|Female
+940|ffffdead|8.5|Left,Right|Carven|Formal|Female
+941|ffffd700|5|Left,Right|Marques’Almeida|Sport|Female
+942|ffffdab9|6.5|Left,Right|Daniela Villegas|Boot|Female
+943|ffeee8aa|8.5|Left,Right|Etro|Casual|Female
+944|ffbdb76b|12|Left,Right|Daniela Villegas|Casual|Female
+945|ff3cb371|8|Left,Right|Monse|Casual|Female
+946|ff20b2aa|9|Left,Right|Yigal Azrouël|Sport|Female
+947|ffdc143c|5|Left,Right|Saint Laurent|Casual|Female
+948|ffafeeee|7.5|Left,Right|Rick Owens|Formal|Female
+949|fff0e68c|9|Left,Right|Charlotte Chesnais|Formal|Female
+950|ff483d8b|10.5|Left,Right|Smythson|Casual|Female
+951|ffdb7093|9|Left,Right|Off-White|Casual|Female
+952|ff191970|11.5|Left,Right|Victoria Beckham|Sandal|Female
+953|ffff0000|10.5|Left,Right|Charlotte Chesnais|Boot|Female
+954|fffa8072|9|Left,Right|Manolo Blahnik|Casual|Female
+955|ff2f4f4f|5|Left,Right|Anna Sheffield|Formal|Female
+956|ff00ff00|5.5|Left,Right|Nili Lotan|Sandal|Female
+957|fffaf0e6|9|Left,Right|FRANCESCO RUSSO|Sandal|Female
+958|ff00ced1|11|Left,Right|Rick Owens|Sandal|Female
+959|ffff00ff|7.5|Left,Right|Mociun|Boot|Female
+960|ffdaa520|6.5|Left,Right|Louis Vuitton|Casual|Female
+961|ffffd700|6|Left,Right|Isa Arfen|Casual|Female
+962|fff4a460|12|Left,Right|Sophie Bille Brahe|Casual|Female
+963|ffff69b4|7.5|Left,Right|Giuseppe Zanotti|Sandal|Female
+964|ff6a5acd|9|Left,Right|Simon Miller|Boot|Female
+965|ffadd8e6|6|Left,Right|Akris punto|Formal|Female
+966|ff4682b4|8|Left,Right|TOGA|Boot|Female
+967|ffffa07a|12|Left,Right|Céline*|Boot|Female
+968|fffa8072|12|Left,Right|Versace|Formal|Female
+969|ff696969|10|Left,Right|Chloé|Sandal|Female
+970|ffffdab9|7|Left,Right|Golden Goose|Sandal|Female
+971|ffadff2f|8.5|Left,Right|Louis Vuitton|Formal|Female
+972|fff5f5dc|7.5|Left,Right|Mociun|Formal|Female
+973|ffffefd5|10|Left,Right|Nancy Gonzalez|Casual|Female
+974|ff48d1cc|5|Left,Right|Rick Owens|Sport|Female
+975|ff8fbc8f|8|Left,Right|Giuseppe Zanotti|Sandal|Female
+976|ff5f9ea0|7.5|Left,Right|Talbot Runhof|Formal|Female
+977|ffff6347|8.5|Left,Right|Sophie Bille Brahe|Sport|Female
+978|ffff00ff|8.5|Left,Right|CALVIN KLEIN 205W39NYC|Sandal|Female
+979|ff6495ed|7|Left,Right|RED Valentino|Boot|Female
+980|ff48d1cc|8.5|Left,Right|Jimmy Choo|Sport|Female
+981|ff483d8b|6|Left,Right|Veronica Beard|Sport|Female
+982|ffffb6c1|6|Left,Right|Monique Lhuillier|Boot|Female
+983|ff00bfff|9|Left,Right|Alexander Wang|Boot|Female
+984|ff808080|5.5|Left,Right|Acne Studios|Formal|Female
+985|fff5f5f5|8|Left,Right|Vetements|Formal|Female
+986|fff5f5dc|9.5|Left,Right|Nancy Gonzalez|Formal|Female
+987|ffd2b48c|5.5|Left,Right|Yigal Azrouël|Sport|Female
+988|ff6b8e23|9.5|Left,Right|Proenza Schouler|Casual|Female
+989|ff9370db|10|Left,Right|Tod's|Formal|Female
+990|ff8b0000|9.5|Left,Right|Sara Battaglia|Boot|Female
+991|ffdda0dd|7.5|Left,Right|Yigal Azrouël|Formal|Female
+992|ffc71585|11.5|Left,Right|Missoni|Sport|Female
+993|ffffb6c1|7.5|Left,Right|Manolo Blahnik|Formal|Female
+994|fffdf5e6|8|Left,Right|Belstaff|Formal|Female
+995|ff8b008b|11.5|Left,Right|Opening Ceremony|Casual|Female
+996|ffff00ff|10|Left,Right|Charlotte Chesnais|Boot|Female
+997|ff00ced1|7.5|Left,Right|Daniela Villegas|Sport|Female
+998|ff40e0d0|8|Left,Right|Versace|Sandal|Female
+999|ff008b8b|10|Left,Right|Belstaff|Sandal|Female
