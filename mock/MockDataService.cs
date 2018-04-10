@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace HelloWorld
 {
-    public class MockDataService
+    public class MockDataService: IDataService
     {
         public MockDataService()
         {
