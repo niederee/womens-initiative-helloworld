@@ -16,6 +16,7 @@ namespace HelloWorld
             int foreachCount = loopService.ForEachShoeCount(searchColor);
             int forCount = loopService.ForShoeCount(searchColor);
             int linqCount = loopService.LinqShoeCount(searchColor);
+            var people = loopService.PeopleWithShoesOfColor(searchColor);
 
         }
     }
