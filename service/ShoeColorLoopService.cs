@@ -13,25 +13,24 @@ namespace HelloWorld
             _data = data;
         }
 
-        public List<Person> PeopleWithShoesOfColor(Color color)
+        public Dictionary<Person, Shoe> PeopleWithShoesOfColor(Color color)
         {
-            List<Person> people = new List<Person>();
+            Dictionary<Person, Shoe> dictionary = new Dictionary<Person, Shoe>();
+            PeopleService peopleService = new PeopleService(_data);
+            
             foreach(var shoe in _data.Shoes)
             {
                 if(shoe.Color == color)
                 {
                     ShoePerson shoePerson = getShoePerson(shoe);
-                    people.Add(getPerson(shoePerson));
+                    dictionary.Add(peopleService.GetPerson(shoePerson), shoe);                    
                 }
             }
 
-            return people;
+            return dictionary;
         } 
 
-        private Person getPerson(ShoePerson shoePerson)
-        {
-            return _data.People.Where(a => a.PersonId == shoePerson.PersonId).DefaultIfEmpty(null).FirstOrDefault();
-        }
+
 
 
         private ShoePerson getShoePerson(Shoe shoe)

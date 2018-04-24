@@ -13,10 +13,11 @@ namespace HelloWorld
             MockDataService mk = new MockDataService();
             ShoeColorLoopService loopService = new ShoeColorLoopService(mk);
             Color searchColor = Color.FromName("ff008000");
-            int foreachCount = loopService.ForEachShoeCount(searchColor);
-            int forCount = loopService.ForShoeCount(searchColor);
-            int linqCount = loopService.LinqShoeCount(searchColor);
             var people = loopService.PeopleWithShoesOfColor(searchColor);
+
+            PeopleService peopleService = new PeopleService(mk);
+            Person person = peopleService.GetPerson("Bruce Hammes");
+            person = peopleService.GetPerson(94);
 
         }
     }
