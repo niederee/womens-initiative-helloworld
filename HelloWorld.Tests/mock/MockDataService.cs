@@ -5,8 +5,9 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Drawing;
+using HelloWorld;
 
-namespace HelloWorld
+namespace HelloWorld.Tests
 {
     public class MockDataService: IDataService
     {

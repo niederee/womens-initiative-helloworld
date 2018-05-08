@@ -7,14 +7,37 @@ namespace HelloWorld
     public class PeopleService 
     {
         private List<Person> _people;
-        public PeopleService(List<Person> people)
-        {
-            _people = people;
-        }
+        private List<Shoe> _shoes;
+        private List<ShoePerson> _shoePersons;
+
         public PeopleService(IDataService dataService)
         {
             
             _people = dataService.People;
+            _shoes = dataService.Shoes;
+            _shoePersons = dataService.ShoePersons;
+        }
+
+        public List<Shoe> GetShoes(Person person)
+        {
+            List<Shoe> tempShoes = null;
+            foreach(ShoePerson sp in _shoePersons)
+            {
+                if(sp.PersonId == person.PersonId)
+                {
+                    if(tempShoes == null){ tempShoes = new List<Shoe>();}
+                    tempShoes.Add(GetShoes(sp));
+                }
+            }
+
+
+            return tempShoes;
+
+        }
+
+        private Shoe GetShoes(ShoePerson shoePerson)
+        {
+              return _shoes.Where(a => a.PairId == shoePerson.PairId).DefaultIfEmpty(null).FirstOrDefault();
         }
 
         

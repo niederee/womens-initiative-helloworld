@@ -5,11 +5,11 @@ namespace HelloWorld
 {
     public class ForEachService
     {
-        public ForEachService()
+        public ForEachService(IDataService mock)
         {
-            mockData = new MockDataService();
+            mockData = mock;
         }
-        private MockDataService mockData { get; set; }
+        private IDataService mockData { get; set; }
 
         public int GetPeopleYoungerThan(DateTime date)
         {

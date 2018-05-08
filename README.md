@@ -7,6 +7,8 @@ C# VSCode simple programs
 
 * Add C# Extension for VSCode
 
+* Add .NET Core Test Explorer
+
 * Restart VSCode
 
 [1]: https://code.visualstudio.com/

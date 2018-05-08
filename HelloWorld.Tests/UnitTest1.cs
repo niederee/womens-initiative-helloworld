@@ -1,15 +1,16 @@
-﻿using System;
-using System.IO;
+using System;
 using System.Drawing;
-using System.Linq;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using HelloWorld;
 
-namespace HelloWorld
+namespace HelloWorld.Tests
 {
-    class Program
+    [TestClass]
+    public class UnitTest1
     {
-        static void Main(string[] args)
-        {     
-
+        [TestMethod]
+        public void PersonNameTest()
+        {
             MockDataService mk = new MockDataService();
             ShoeColorLoopService loopService = new ShoeColorLoopService(mk);
             Color searchColor = Color.FromName("ff008000");
@@ -19,6 +20,9 @@ namespace HelloWorld
             Person person = peopleService.GetPerson("Bruce Hammes");
             person = peopleService.GetPerson(94);
 
+            var shoes = peopleService.GetShoes(person);
+            Assert.AreEqual(person.FirstName,"Bruce");
+            Assert.AreEqual(person.LastName,"Hammes");
         }
     }
 }
