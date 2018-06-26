@@ -70,5 +70,18 @@ namespace HelloWorld
         {
             return GetPerson(shoePerson.PersonId);
         }
+
+        public List<Person> GetPeople(string firstName)
+        {
+            List<Person> people = new List<Person>();
+            foreach(Person peep in _people)
+            {
+                if(peep.FirstName.ToUpper() == firstName.ToUpper())
+                {
+                    people.Add(peep);
+                }
+            }
+            return people;
+        }
     }
 }

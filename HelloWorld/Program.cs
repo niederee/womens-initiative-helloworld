@@ -2,15 +2,19 @@
 using System.IO;
 using System.Drawing;
 using System.Linq;
+using System.Configuration;
+using Microsoft.Extensions.Configuration;
 
 namespace HelloWorld
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {     
-
-           Console.WriteLine("Hello World");
+            DataService ds = new DataService();
+            DatabaseCopyService databaseCopyService = new DatabaseCopyService(ds);
+            databaseCopyService.Copy();
+            Console.WriteLine("Hello World");
 
         }
     }

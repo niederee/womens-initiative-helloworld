@@ -1,11 +1,30 @@
 using System.Collections.Generic;
 using System.Drawing;
+using System.Linq;
 
 namespace HelloWorld
 {
     public class ShoeService
     {
         public List<Shoe> Shoes { get; set; }
+
+        public KeyValuePair<Color,int> GetMostOccuringColor(IDataService data)
+        {
+               Dictionary<Color, int> tally = new Dictionary<Color, int>();
+            foreach (Shoe s in data.Shoes)
+            {
+                int RunningCount = 0;
+                if (tally.TryGetValue(s.Color, out RunningCount))
+                {
+                    tally[s.Color] = (RunningCount + 1);
+                }
+                else
+                {
+                    tally.Add(s.Color, 1);
+                }
+            }
+           return tally.OrderByDescending(a => a.Value).First();
+        }
         public ShoeService()
         {
             //constructor stuff goes here

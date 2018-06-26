@@ -1,28 +1,28 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-
     <IsPackable>false</IsPackable>
   </PropertyGroup>
-
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
-    <PackageReference Include="MSTest.TestAdapter" Version="1.2.0" />
-    <PackageReference Include="MSTest.TestFramework" Version="1.2.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0"/>
+    <PackageReference Include="MSTest.TestAdapter" Version="1.2.0"/>
+    <PackageReference Include="MSTest.TestFramework" Version="1.2.0"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1"/>
   </ItemGroup>
-
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorld\HelloWorld.csproj" />
+    <ProjectReference Include="..\HelloWorld\HelloWorld.csproj"/>
   </ItemGroup>
-      <ItemGroup>
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="mock\account.dat">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-	<Content Include="mock\accountPerson.dat">
+    <Content Include="mock\accountPerson.dat">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-	<Content Include="mock\person.dat">
+    <Content Include="mock\person.dat">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="mock\shoe.dat">
@@ -32,5 +32,4 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
-
 </Project>
